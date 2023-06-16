@@ -21,3 +21,4 @@ The importance of these parameters lies in their ability to provide insights int
 **Further analysis and exploration can be done to gain more insights from the data, such as identifying other significant features, evaluating different clustering algorithms or hyperparameter tuning, and conducting a more comprehensive evaluation of the classification model's performance.
 
 **This project demonstrates the application of machine learning techniques like classification and clustering in the insurance domain. It highlights the potential to improve insurance offerings, customer segmentation, and decision-making by leveraging data-driven approaches.
+
